@@ -1,0 +1,50 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "guru.dostavka.hipster"
+    },
+    "jhipsterVersion": "6.10.1",
+    "applicationType": "monolith",
+    "baseName": "hipster",
+    "packageName": "guru.dostavka.hipster",
+    "packageFolder": "guru/dostavka/hipster",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "NzZkZWIwMmE5ZmE0NmU3Mjk3NGQ4ZGIwY2IyYmE4MTg4YmRmOWJmODE5Y2Y3ZmIzMjMyNjQ1N2ZhZDI4NTJiNzIzOWZhNGM0OGJjOGYwNTI5NDgyZDE1NGUzYjRhNWM2ZDYwZDBkYTU0ZmZmMTNjNGJkN2VkMmMwZDdiZTlkMzA=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "vue",
+    "clientTheme": "darkly",
+    "clientThemeVariant": "dark",
+    "creationTimestamp": 1607246660235,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [
+      {
+        "name": "generator-jhipster-vuejs",
+        "version": "1.9.2"
+      }
+    ],
+    "enableTranslation": false,
+    "blueprints": [
+      {
+        "name": "generator-jhipster-vuejs",
+        "version": "1.9.2"
+      }
+    ]
+  }
+}
